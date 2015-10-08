@@ -3,8 +3,12 @@ tank
 
 A simple multi player tank game on HTML 5. Play from any device that renders HTML 5.
 
-to run the game type this command after cloning
+After cloning, type the following command to add all the dependencies inside `node_modules` folder.
+
+$ npm install
+
+To run the game, type this command.
 
 $ node index.js
 
-feel free to alter the codes and give your touch.
+Feel free to alter the codes and give your touch.
