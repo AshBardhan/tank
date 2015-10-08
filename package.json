@@ -1,0 +1,20 @@
+{
+  "name": "tank",
+  "version": "1.0.0",
+  "description": "A simple multi player tank game on HTML 5. Play from any device that renders HTML 5",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io": "^1.1.0",
+    "express": "^4.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csrahulram/tank.git"
+  },
+  "author": "csrahulram",
+  "homepage": "https://github.com/csrahulram/tank#readme"
+}
